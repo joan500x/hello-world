@@ -1,0 +1,2 @@
+These are the animation blueprints I used for my characters. 
+Inside each anim blueprint there is only the FullBody CCDIK node with retargeting activated and with the data asset of each character selected.
